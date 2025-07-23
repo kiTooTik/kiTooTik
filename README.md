@@ -1,7 +1,5 @@
 
-## Hi there 
-I'm Mark Salazar
-👋
+## kiTooTIk 👋
 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=kiTooTik)](https://github.com/ryo-ma/github-profile-trophy)
